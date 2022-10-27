@@ -1,0 +1,22 @@
+h1 {
+    color: blueviolet;
+    font-size: 150px;
+}
+/*
+img {
+    background-color: red;
+}*/
+
+/****************************CLASS SELECTORS********************/
+
+.bacon {
+    background-color: magenta;
+}
+
+.broccoli {
+    background-color: darkslateblue;
+}
+
+#heading {
+    color: lightblue;
+}

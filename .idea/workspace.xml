@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83f76c34-8e28-4174-a287-7554d3838e34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine OOP/oop-coffee-machine-start/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine OOP/oop-coffee-machine-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine OOP/oop-coffee-machine-start/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine OOP/oop-coffee-machine-start/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/Coffee Machine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/hangman1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/max_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/pw_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Development Course/Personal Site/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Development Course/Personal Site/Hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Development Course/Personal Site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Development Course/Personal Site/pose.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G8maCVpTnmF5pWZ7LdGf73doyd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/radio/OneDrive/Documents/Coding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83f76c34-8e28-4174-a287-7554d3838e34" name="Changes" comment="" />
+      <created>1665778645437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665778645437</updated>
+      <workItem from="1665778646890" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
